@@ -31,3 +31,7 @@ La parte de hipertexto de HTML proviene de los primeros días de la web y su cas
 A medida que las páginas web y las aplicaciones web se vuelven más complejas, el Consorcio W3 actualiza la especificación HTML para garantizar que una página web se pueda mostrar de manera confiable en cualquier navegador. La última versión de HTML es HTML5.
 
 Esta sección presenta cómo utilizar elementos HTML para dar estructura y significado a su contenido web.
+
+[Ir a la primera clase](#)
+
+[Ver el plan de estudios](#)
