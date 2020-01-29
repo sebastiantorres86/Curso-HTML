@@ -32,6 +32,6 @@ A medida que las páginas web y las aplicaciones web se vuelven más complejas, 
 
 Esta sección presenta cómo utilizar elementos HTML para dar estructura y significado a su contenido web.
 
-[Ir a la primera clase](#)
+<a href="https://github.com/sebastiantorres86/Curso-HTML/blob/master/1-28.md" target="_blank">Ir a la primera clase</a>
 
-[Ver el plan de estudios](#)
+[Ver el plan de estudios]()
